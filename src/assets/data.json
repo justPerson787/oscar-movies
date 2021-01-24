@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "The Irishman",
+        "year": 2020,
+        "img": {
+            "src": "img/irishman.jpg",
+            "alt": "the_irishman"
+        },
+        "nomination": "best picture",
+        "winner": ""
+    },
+    {
+        "id": 2,
+        "title": "Joker",
+        "year": 2020,
+        "img": {
+            "src": "img/joker.jpg",
+            "alt": "joker"
+        },
+        "nomination": "best picture",
+        "winner": ""
+    },
+    {
+        "id": 3,
+        "title": "Little Women",
+        "year": 2020,
+        "img": {
+            "src": "img/women.jpg",
+            "alt": "little_women"
+        },
+        "nomination": "best picture",
+        "winner": ""
+    },
+    {
+        "id": 4,
+        "title": "Adam Driver",
+        "year": 2020,
+        "img": {
+            "src": "img/driver.jpg",
+            "alt": "adam_driver"
+        },
+        "nomination": "leading actor",
+        "winner": ""
+    },
+    {
+        "id": 5,
+        "title": "Jonathan Pryce",
+        "year": 2020,
+        "img": {
+            "src": "img/pryce.jpg",
+            "alt": "jonathan_price"
+        },
+        "nomination": "leading actor",
+        "winner": ""
+    }
+]
